@@ -1,6 +1,6 @@
 # Aula16_03
 
-Crie um programa onde peça o número de nomes a serem cadastrados, peça os nomes e depois peça um nome para vereficar a posição de cadastro. 
+Crie um programa onde peça o número de nomes a serem cadastrados, peça os nomes e depois peça um nome para verificar a posição de cadastro. 
 
 ~~~
 import javax.swing.*;
