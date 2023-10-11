@@ -3,7 +3,7 @@
 Crie um programa onde peça o número de nomes a serem cadastrados, peça os nomes e depois peça um nome para verificar a posição de cadastro. 
 
 ~~~
-import javax.swing.*;
+import javax.swing.JOptionPane;
 
 public class Aula16_03
 {
